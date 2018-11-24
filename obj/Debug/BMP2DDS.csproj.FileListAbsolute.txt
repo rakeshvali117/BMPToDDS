@@ -1,0 +1,7 @@
+D:\Rakesh\Personal Work\Image Converter\BMP2DDS\bin\Debug\BMP2DDS.exe.config
+D:\Rakesh\Personal Work\Image Converter\BMP2DDS\bin\Debug\BMP2DDS.exe
+D:\Rakesh\Personal Work\Image Converter\BMP2DDS\bin\Debug\BMP2DDS.pdb
+D:\Rakesh\Personal Work\Image Converter\BMP2DDS\obj\Debug\BMP2DDS.csprojResolveAssemblyReference.cache
+D:\Rakesh\Personal Work\Image Converter\BMP2DDS\obj\Debug\BMP2DDS.csproj.CoreCompileInputs.cache
+D:\Rakesh\Personal Work\Image Converter\BMP2DDS\obj\Debug\BMP2DDS.exe
+D:\Rakesh\Personal Work\Image Converter\BMP2DDS\obj\Debug\BMP2DDS.pdb
